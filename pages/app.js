@@ -1,6 +1,6 @@
 //Gabriela Ceolin 200550539
 
-import 'bootstrap/dist/css/bootstrap.min.css';  // Bootstrap styles
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Head from 'next/head';
 
 function MyApp({ Component, pageProps }) {
@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
         <meta charSet="UTF-8" />
         <meta property="og:title" content="My Portfolio Website" />
         <meta property="og:description" content="Explore my work and projects on my portfolio site." />
-        <meta property="og:image" content="/public/portfolio-image.jpg" />
+        <meta property="og:image" content="/public/portfolio-image.gif" />
         <meta property="og:url" content="https://www.myportfolio.com" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
