@@ -2,6 +2,7 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Head from 'next/head';
+import 'styles/globals.css'; // Global styles
 
 function MyApp({ Component, pageProps }) {
   return (
